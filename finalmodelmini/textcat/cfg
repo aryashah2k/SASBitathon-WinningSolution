@@ -1,0 +1,9 @@
+{
+  "exclusive_classes":true,
+  "architecture":"simplecnn",
+  "labels":[
+    "DISPUTED",
+    "NOT DISPUTED"
+  ],
+  "pretrained_vectors":null
+}
